@@ -10,6 +10,11 @@
  * JSON-java [jar](https://mvnrepository.com/artifact/org.json/json/20140107)
  * JUnit [jar](https://github.com/junit-team/junit4/wiki/Download-and-Install)
  
+ ## Commands 
+ * add 2017-04-27 3.44 USD Jogurt
+ * list
+ * clear 2017-04-27
+ * total EUR
  ## Deployment
  To run locally execute
  
